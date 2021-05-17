@@ -8,7 +8,7 @@ public class playerMove : MonoBehaviour
     private CharacterController CharacterController;
     private float speed = 10f;
     private float rx = 0, ry;
-    private float angelerSpeed = 50;
+    private float angelerSpeed = 100;
     // Start is called before the first frame update
     void Start()
     {
